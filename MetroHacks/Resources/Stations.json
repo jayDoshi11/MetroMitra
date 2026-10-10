@@ -1,0 +1,353 @@
+[
+  {
+    "name": "APMC",
+    "line": "Ahmedabad NS line",
+    "latitude": 22.997729,
+    "longitude": 72.537201
+  },
+  {
+    "name": "Jivraj Park",
+    "line": "Ahmedabad NS line",
+    "latitude": 23.005481,
+    "longitude": 72.53355
+  },
+  {
+    "name": "Rajiv Nagar",
+    "line": "Ahmedabad NS line",
+    "latitude": 23.009701,
+    "longitude": 72.53673
+  },
+  {
+    "name": "Shreyas",
+    "line": "Ahmedabad NS line",
+    "latitude": 23.013778,
+    "longitude": 72.549295
+  },
+  {
+    "name": "Paldi",
+    "line": "Ahmedabad NS line",
+    "latitude": 23.018566,
+    "longitude": 72.562385
+  },
+  {
+    "name": "Gandhigram",
+    "line": "Ahmedabad NS line",
+    "latitude": 23.027234,
+    "longitude": 72.56892
+  },
+  {
+    "name": "Old High Court",
+    "line": "Ahmedabad NS line",
+    "latitude": 23.037622,
+    "longitude": 72.566988,
+    "interchanges": [
+      "Ahmedabad EW line"
+    ]
+  },
+  {
+    "name": "Usmanpura",
+    "line": "Ahmedabad NS line",
+    "latitude": 23.045889,
+    "longitude": 72.565015
+  },
+  {
+    "name": "Vijay Nagar",
+    "line": "Ahmedabad NS line",
+    "latitude": 23.056222,
+    "longitude": 72.562468
+  },
+  {
+    "name": "Vadaj",
+    "line": "Ahmedabad NS line",
+    "latitude": 23.06773,
+    "longitude": 72.565822
+  },
+  {
+    "name": "Ranip",
+    "line": "Ahmedabad NS line",
+    "latitude": 23.067675,
+    "longitude": 72.574009
+  },
+  {
+    "name": "Sabarmati Railway Station",
+    "line": "Ahmedabad NS line",
+    "latitude": 23.069729,
+    "longitude": 72.586695
+  },
+  {
+    "name": "AEC",
+    "line": "Ahmedabad NS line",
+    "latitude": 23.075157,
+    "longitude": 72.593291
+  },
+  {
+    "name": "Sabarmati",
+    "line": "Ahmedabad NS line",
+    "latitude": 23.085675,
+    "longitude": 72.592206
+  },
+  {
+    "name": "Thaltej Gam",
+    "line": "Ahmedabad EW line",
+    "latitude": 23.0501558,
+    "longitude": 72.5070294
+  },
+  {
+    "name": "Thaltej",
+    "line": "Ahmedabad EW line",
+    "latitude": 23.0497376,
+    "longitude": 72.515931
+  },
+  {
+    "name": "Doordarshan Kendra",
+    "line": "Ahmedabad EW line",
+    "latitude": 23.048086,
+    "longitude": 72.524867
+  },
+  {
+    "name": "Gurukul Road",
+    "line": "Ahmedabad EW line",
+    "latitude": 23.046007,
+    "longitude": 72.53505
+  },
+  {
+    "name": "Gujarat University",
+    "line": "Ahmedabad EW line",
+    "latitude": 23.044902,
+    "longitude": 72.543374
+  },
+  {
+    "name": "Commerce Six Road",
+    "line": "Ahmedabad EW line",
+    "latitude": 23.040691,
+    "longitude": 72.552968
+  },
+  {
+    "name": "S P Stadium",
+    "line": "Ahmedabad EW line",
+    "latitude": 23.039854,
+    "longitude": 72.561807
+  },
+  {
+    "name": "Old High Court",
+    "line": "Ahmedabad EW line",
+    "latitude": 23.037622,
+    "longitude": 72.566988,
+    "interchanges": [
+      "Ahmedabad NS line"
+    ]
+  },
+  {
+    "name": "Shahpur",
+    "line": "Ahmedabad EW line",
+    "latitude": 23.039222,
+    "longitude": 72.581776
+  },
+  {
+    "name": "Gheekanta",
+    "line": "Ahmedabad EW line",
+    "latitude": 23.028383,
+    "longitude": 72.586332
+  },
+  {
+    "name": "Kalupur",
+    "line": "Ahmedabad EW line",
+    "latitude": 23.024785,
+    "longitude": 72.602903
+  },
+  {
+    "name": "Kankariya East",
+    "line": "Ahmedabad EW line",
+    "latitude": 23.015185,
+    "longitude": 72.606984
+  },
+  {
+    "name": "Apparel Park",
+    "line": "Ahmedabad EW line",
+    "latitude": 23.01085,
+    "longitude": 72.61746
+  },
+  {
+    "name": "Amraivadi",
+    "line": "Ahmedabad EW line",
+    "latitude": 23.007846,
+    "longitude": 72.628641
+  },
+  {
+    "name": "Rabari Colony",
+    "line": "Ahmedabad EW line",
+    "latitude": 23.005513,
+    "longitude": 72.635463
+  },
+  {
+    "name": "Vastral",
+    "line": "Ahmedabad EW line",
+    "latitude": 23.003801,
+    "longitude": 72.646869
+  },
+  {
+    "name": "Nirant Cross Road",
+    "line": "Ahmedabad EW line",
+    "latitude": 23.000442,
+    "longitude": 72.658886
+  },
+  {
+    "name": "Vastral Gam",
+    "line": "Ahmedabad EW line",
+    "latitude": 22.997218,
+    "longitude": 72.667415
+  },
+  {
+    "name": "Motera Stadium",
+    "line": "Gandhinagar line",
+    "latitude": 23.096694,
+    "longitude": 72.596655
+  },
+  {
+    "name": "Koteshwar Road",
+    "line": "Gandhinagar line",
+    "latitude": 23.105398,
+    "longitude": 72.6031113,
+    "interchanges": [
+      "Airport line (planned)"
+    ]
+  },
+  {
+    "name": "Viswakarama College",
+    "line": "Gandhinagar line",
+    "latitude": 23.11431,
+    "longitude": 72.608569
+  },
+  {
+    "name": "Tapovan Circle",
+    "line": "Gandhinagar line",
+    "latitude": 23.1199142,
+    "longitude": 72.6165966
+  },
+  {
+    "name": "Narmada Canal",
+    "line": "Gandhinagar line",
+    "latitude": 23.125338,
+    "longitude": 72.622327
+  },
+  {
+    "name": "Koba Circle",
+    "line": "Gandhinagar line",
+    "latitude": 23.132206,
+    "longitude": 72.630952
+  },
+  {
+    "name": "Juna Koba",
+    "line": "Gandhinagar line",
+    "latitude": 23.141811,
+    "longitude": 72.638453
+  },
+  {
+    "name": "Koba Gaam",
+    "line": "Gandhinagar line",
+    "latitude": 23.147469,
+    "longitude": 72.643825
+  },
+  {
+    "name": "GNLU",
+    "line": "Gandhinagar line",
+    "latitude": 23.154344,
+    "longitude": 72.647375,
+    "interchanges": [
+      "GIFT City line"
+    ]
+  },
+  {
+    "name": "Raysan",
+    "line": "Gandhinagar line",
+    "latitude": 23.166206,
+    "longitude": 72.648367
+  },
+  {
+    "name": "Randesan",
+    "line": "Gandhinagar line",
+    "latitude": 23.178853,
+    "longitude": 72.647333
+  },
+  {
+    "name": "Dholakuva Circle",
+    "line": "Gandhinagar line",
+    "latitude": 23.185698,
+    "longitude": 72.643363
+  },
+  {
+    "name": "Infocity",
+    "line": "Gandhinagar line",
+    "latitude": 23.192418,
+    "longitude": 72.639748
+  },
+  {
+    "name": "Sector 1",
+    "line": "Gandhinagar line",
+    "latitude": 23.205186,
+    "longitude": 72.643387
+  },
+  {
+    "name": "Sector 10A",
+    "line": "Gandhinagar line",
+    "latitude": 23.210558,
+    "longitude": 72.651751
+  },
+  {
+    "name": "Sachivalaya",
+    "line": "Gandhinagar line",
+    "latitude": 23.214883,
+    "longitude": 72.658712
+  },
+  {
+    "name": "Akshardham",
+    "line": "Gandhinagar line",
+    "latitude": 23.223491,
+    "longitude": 72.664241
+  },
+  {
+    "name": "Juna Sachivalaya",
+    "line": "Gandhinagar line",
+    "latitude": 23.228877,
+    "longitude": 72.659482
+  },
+  {
+    "name": "Sector 16",
+    "line": "Gandhinagar line",
+    "latitude": 23.233805,
+    "longitude": 72.650208
+  },
+  {
+    "name": "Sector 24",
+    "line": "Gandhinagar line",
+    "latitude": 23.238425,
+    "longitude": 72.641564
+  },
+  {
+    "name": "Mahatma Mandir",
+    "line": "Gandhinagar line",
+    "latitude": 23.233654,
+    "longitude": 72.633664
+  },
+  {
+    "name": "GNLU",
+    "line": "GIFT City line",
+    "latitude": 23.154344,
+    "longitude": 72.647375,
+    "interchanges": [
+      "Gandhinagar line"
+    ]
+  },
+  {
+    "name": "PDEU",
+    "line": "GIFT City line",
+    "latitude": 23.154792,
+    "longitude": 72.661297
+  },
+  {
+    "name": "GIFT City",
+    "line": "GIFT City line",
+    "latitude": 23.153264,
+    "longitude": 72.685575
+  }
+]
